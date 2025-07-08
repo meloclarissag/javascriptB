@@ -1,0 +1,28 @@
+h1 {
+
+    color:rgb(122, 167, 233);
+
+}
+
+h2{
+
+color:rgb(0, 85, 155);
+
+}
+
+.exercicio{
+
+    border: 1px solid;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+input, button{
+    margin: 5px, 0;
+    padding: 6px;
+}
+
+p{
+    font-weight: bold;
+}

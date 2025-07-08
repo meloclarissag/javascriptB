@@ -1,3 +1,8 @@
+let num1 = Number(prompt("Digite o primeiro número: "));
+let num2 = Number(prompt("Digite o segundo número: "));
+
+alert("Resultado da soma: " + (num1 + num2));
+
 var global = "variavel global";
 console.log(global);
 
